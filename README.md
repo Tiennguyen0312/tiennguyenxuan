@@ -10,13 +10,13 @@
 - 📍 London, United Kingdom (Open to moving to work in the remote area or outsite of London)
 
 ### Technical Skills
-- **Programming Languages:** Java, Python, JavaScript, HTML  
-- **Frontend:** React, JSX  
-- **Backend:** Java, Spring Boot  
-- **Databases:** H2 Database  
-- **Data & Statistical Analysis:** SPSS  
-- **Software Modelling:** Visual Paradigm, UML Diagrams  
-- **Development Tools:** Visual Studio Code, Google Colab, GitHub
+- **Programming Languages:** Java, Python, JavaScript, HTML, CSS
+- **Frontend:** React, JSX, React Router, Vite
+- **Backend:** Java, Spring Boot, FastAPI, Rest APIs
+- **Databases:** H2 Database, Spring Data JPA, Hibernate  
+- **Data & Statistical Analysis:** SPSS, Google Colab, pandas, scikit-learn  
+- **Software Modelling:** Visual Paradigm, UML Diagrams
+- **Development Tools:** Visual Studio Code, Maven, Github
 
 #### Project 
 **AI Medical Chatbot**
